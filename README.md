@@ -1,4 +1,4 @@
-# Self-supervised audio-visual correlation model
+# Self-supervised audio-visual correlation using contrastive learning 
 
 
 The code in this repo implements a self-supervised audio-visual correlation
