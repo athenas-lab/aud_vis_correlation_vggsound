@@ -1,10 +1,11 @@
-# [Learning Self-Supervised Audio-Visual Representations for Sound Recommendations](https://arxiv.org/abs/2412.07406)
+## [Learning Self-Supervised Audio-Visual Representations for Sound Recommendations](https://arxiv.org/abs/2412.07406)
+### Published in the Proceedings of the International Symposium on Visual Computing, 2021 
 
 
 The code in this repo implements a self-supervised audio-visual correlation
 model based on contrastive learning. The model has been trained and 
 evaluated on VGGSound dataset. This model can be used to recommend sounds 
-correlated with the objects/scenes in video frames/images.
+correlated with the objects/scenes in video frames/images, as described in the above paper. 
 
 
 # Data Preparation
