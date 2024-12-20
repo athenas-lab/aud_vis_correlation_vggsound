@@ -1,4 +1,4 @@
-# Self-supervised audio-visual correlation using contrastive learning 
+# [Learning Self-Supervised Audio-Visual Representations for Sound Recommendations](https://arxiv.org/abs/2412.07406)
 
 
 The code in this repo implements a self-supervised audio-visual correlation
